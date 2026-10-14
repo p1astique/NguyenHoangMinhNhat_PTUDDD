@@ -1,0 +1,32 @@
+# Flutter / Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/build/
+**/.pub-cache/
+**/.pub/
+
+# IDE
+**/.idea/
+**/.vs/
+**/*.iml
+
+# Windows / macOS
+Thumbs.db
+.DS_Store
+
+# Generated files
+**/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugins.cmake
+**/windows/flutter/generated_plugin_registrant.h
+
+# Local secrets
+**/.env
+**/.env.*
+**/secrets.json
+**/appsettings.Development.json
+
+# Backup Git history from old weekly projects
+**/.git_backup/

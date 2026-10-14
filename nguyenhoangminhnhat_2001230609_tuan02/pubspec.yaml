@@ -1,0 +1,5 @@
+name: dart_oop_bai02
+description: Bai thuc hanh Dart huong doi tuong
+publish_to: none
+environment:
+  sdk: ^3.0.0
